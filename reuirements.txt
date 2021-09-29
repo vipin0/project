@@ -1,0 +1,16 @@
+glob2
+tqdm
+pandas
+numpy
+matplotlib
+scipy
+python_speech_features
+librosa
+noisereduce
+soundfile
+tensorflow
+keras
+sklearn
+SpeechRecognition
+pyaudio
+wave
